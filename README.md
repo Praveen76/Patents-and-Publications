@@ -26,9 +26,10 @@ The research patents are:
 ## List of Publications
 Please feel free to checkout my published articles on renowned Data Science learning platform called **Analytics Vidhya** with 3M+ community.
 1. [Build a Face mask Detector using RetinaNet Model](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/)
-2. [Introduction to ANOVA test using real time COVID-19 Data ](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
-3. [Beginners guide to Focal Loss in Object detection](https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/)
-4. [Web-scrapping using Selenium with Python](https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/)
+2. [Introduction to Market-Mix-Model using Robyn from Meta](https://www.analyticsvidhya.com/blog/2023/05/introduction-to-market-mix-model-using-robyn/)
+3. [Introduction to ANOVA test using real time COVID-19 Data ](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
+4. [Beginners guide to Focal Loss in Object detection](https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/)
+5. [Web-scrapping using Selenium with Python](https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/)
 
 
 You can also checkout my personal website for other published articles-  [Towards Machine Learning](https://towardsmachinelearning.org/)
