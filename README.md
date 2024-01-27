@@ -21,7 +21,7 @@ Each repository contains a README file that provides a brief overview of the fil
 
 The research patents are:
 1. [Method and System for Product Recommendation Based on User Interaction](https://github.com/Praveen76/METHOD-AND-SYSTEM-FOR-PRODUCT-RECOMMENDATION-BASED-ON-USER-INTERACTION/)
-2. [GenAI powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/GenAI-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof)
+2. [RAG(Retrieval-Augmentation-Generation) powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/)
 
 ## List of Publications
 Please feel free to checkout my published articles on renowned Data Science learning platform called **Analytics Vidhya** with 3M+ community.
