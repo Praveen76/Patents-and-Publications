@@ -36,7 +36,7 @@ You can also checkout my personal website for other published articles-  [Toward
 
 ## Confidentiality Agreement
 
-This repository is subject to a confidentiality agreement between the inventor and the viewers of this repository. The files in this repository are not to be disclosed, copied, or distributed without the prior written consent of the inventor. See the Confidentiality Agreement file for more information.
+This repository is subject to a confidentiality agreement between the inventor and the viewers of this repository. The files in this repository are not to be disclosed, copied, or distributed without the prior written consent of the inventor. See the [Confidentiality Agreement](https://github.com/Praveen76/Patents-and-Publications/blob/main/ConfidentialityAgreement.md) file for more information.
 
 ## Contact
 
