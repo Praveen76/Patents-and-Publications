@@ -7,7 +7,7 @@ This repository contains links to various GitHub repositories storing patent dra
 
 - [Motivation](#motivation)
 - [List of Patents](#list-of-patents)
-- [List of Publications](#list-of-publications)
+- [List of other Publications](#list-of-other-publications)
 - [Confidentiality Agreement](#confidentiality-agreement)
 - [Contact](#contact)
 - [About Me](#about-me)
@@ -23,7 +23,7 @@ The filed patents are as follows:
 1. [Method and System for Product Recommendation Based on User Interaction](https://github.com/Praveen76/METHOD-AND-SYSTEM-FOR-PRODUCT-RECOMMENDATION-BASED-ON-USER-INTERACTION/)
 2. [RAG(Retrieval-Augmentation-Generation) powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/)
 
-## List of Publications
+## List of other Publications
 Please feel free to checkout my published articles on renowned Data Science learning platform called **Analytics Vidhya** with 3M+ community.
 1. [Build a Face mask Detector using RetinaNet Model](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/)
 2. [Introduction to Market-Mix-Model using Robyn from Meta](https://www.analyticsvidhya.com/blog/2023/05/introduction-to-market-mix-model-using-robyn/)
