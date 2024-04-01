@@ -19,7 +19,7 @@ The purpose of this repository is to showcase some of the innovative and cutting
 ## List of Patents
 Each repository contains a README file that provides a brief overview of the filed patent, along with a link to the GitHub repository where the full document can be found. 
 
-The research patents are:
+The filed patents are as follows:
 1. [Method and System for Product Recommendation Based on User Interaction](https://github.com/Praveen76/METHOD-AND-SYSTEM-FOR-PRODUCT-RECOMMENDATION-BASED-ON-USER-INTERACTION/)
 2. [RAG(Retrieval-Augmentation-Generation) powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/)
 
