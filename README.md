@@ -20,8 +20,9 @@ The purpose of this repository is to showcase some of the innovative and cutting
 Each repository contains a README file that provides a brief overview of the filed patent, along with a link to the GitHub repository where the full document can be found. 
 
 The filed patents are as follows:
-1. [Method and System for Product Recommendation Based on User Interaction](https://github.com/Praveen76/METHOD-AND-SYSTEM-FOR-PRODUCT-RECOMMENDATION-BASED-ON-USER-INTERACTION/)
-2. [RAG(Retrieval-Augmentation-Generation) powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/)
+1. [Method and System for Product Recommendation Based on User Interaction](https://github.com/Praveen76/METHOD-AND-SYSTEM-FOR-PRODUCT-RECOMMENDATION-BASED-ON-USER-INTERACTION/) : Application number 202341075775
+
+2. [RAG(Retrieval-Augmentation-Generation) powered system for vocabulary acquisition through adaptive learning](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/) : Application number 202411005277
 
 ## List of other Publications
 Please feel free to checkout my published articles on renowned Data Science learning platform called **Analytics Vidhya** with 3M+ community.
